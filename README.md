@@ -6,13 +6,13 @@ Proyek ini merupakan submission untuk pengembangan model *Machine Learning* meng
 
 Berikut adalah kriteria submission yang telah diimplementasikan dan berhasil dipenuhi dalam proyek ini:
 
-✅ **Bebas Memilih Dataset yang Ingin Dipakai, tetapi Harus Memiliki Minimal 1000 Gambar**
-✅ **Tidak Diperbolehkan Menggunakan Dataset Rock, Paper, Scissor dan X-Ray**
-✅ **Dataset Dibagi Menjadi Train Set, Test Set dan Validation Set**
-✅ **Model Harus Menggunakan Model Sequential, Conv2D, Pooling Layer**
-✅ **Akurasi pada Training dan Testing Set Minimal Sebesar 85%**
-✅ **Membuat Plot Terhadap Akurasi dan Loss Model**
-✅ **Menyimpan Model ke Dalam Format SavedModel, TF-Lite dan TFJS**
+- ✅ **Bebas Memilih Dataset yang Ingin Dipakai, tetapi Harus Memiliki Minimal 1000 Gambar**
+- ✅ **Tidak Diperbolehkan Menggunakan Dataset Rock, Paper, Scissor dan X-Ray**
+- ✅ **Dataset Dibagi Menjadi Train Set, Test Set dan Validation Set**
+- ✅ **Model Harus Menggunakan Model Sequential, Conv2D, Pooling Layer**
+- ✅ **Akurasi pada Training dan Testing Set Minimal Sebesar 85%**
+- ✅ **Membuat Plot Terhadap Akurasi dan Loss Model**
+- ✅ **Menyimpan Model ke Dalam Format SavedModel, TF-Lite dan TFJS**
 
 ### Bukti Hasil Review
 ![Hasil Review Dicoding](screencapture-dicoding-academysubmissions-4564601-2026-02-25-09_57_49.png)
